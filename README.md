@@ -3,8 +3,9 @@
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,nodejs,git,github,vscode&perline=11" />
-</p><!--
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle SQL"/>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
