@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm `Pavan Bhat`
 
 ## 💻 Tech Stack <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 
