@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!--
-**Pavanbhat66/Pavanbhat66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack
 
-Here are some ideas to get you started:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,nodejs,git,github,vscode&perline=11" />
+</p><!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
