@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 💻 Tech Stack
+## 💻 Tech Stack <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
 
 
 
