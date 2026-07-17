@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Java Backend Developer | B.E. Computer Science Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Learning+Data+Structures+%26+Algorithms;Building+Java+Projects;Exploring+Backend+Development;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=;Building+Java+Projects;Exploring+Backend+Development;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
