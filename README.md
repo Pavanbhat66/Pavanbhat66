@@ -21,7 +21,7 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,c,cpp,R" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,c,cpp" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/>
 </p>
 
