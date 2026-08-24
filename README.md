@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd Year B.E. Computer Science Engineering Student
+- 🎓 3rd Year B.E. Computer Science Engineering Student
 - ☕ Interested in Java Backend Development
 - 🌱 Currently learning Java,Spring boot & Dsa 
 - 💻 Building projects to improve my development skills
