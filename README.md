@@ -43,10 +43,6 @@
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pavan-bhat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-  </a>
-  
   <a href="mailto:pavanbhat461@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
   </a>
