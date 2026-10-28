@@ -17,7 +17,6 @@
 - 🎯 Working towards becoming a Backend Software Engineer
 
 Portfolio
-
 [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://portfoliov1-mk7wil7xj-pavanbhat66s-projects.vercel.app/)   
 ---
 
