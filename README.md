@@ -1,64 +1,104 @@
-<h1 align="center">Hi 👋, I'm Pavan Bhat</h1>
+# Hey, I'm Pavan Bhat! 👋
 
-<h3 align="center">Aspiring Java Backend Developer | B.E. Computer Science Engineering Student</h3>
+### 💻 Computer Science Engineering Student | Aspiring Java Backend Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=;Building+Java+Projects;Exploring+Backend+Development;Always+Learning" alt="Typing SVG" />
-</p>
+Passionate about software development, backend technologies and building practical applications. I enjoy exploring new technologies and turning ideas into working projects.
 
----
+- 🎓 Pursuing B.E. in Computer Science Engineering
+- 💡 Interested in Java Backend and Full Stack Development
+- 🌱 Currently exploring Spring Boot and MongoDB
+- 🚀 Building projects and improving my development skills
+- 🎯 Working towards becoming a skilled software developer
 
-## 👨‍💻 About Me
-
-- 🎓 3rd Year B.E. Computer Science Engineering Student
-- ☕ Interested in Java Backend Development
-- 🌱 Currently learning Java,Spring boot & Dsa 
-- 💻 Building projects to improve my development skills
-- 🎯 Working towards becoming a Backend Software Engineer
-
-Portfolio
-[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://portfoliov1-mk7wil7xj-pavanbhat66s-projects.vercel.app/)   
 ---
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,c,cpp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/>
+### Programming & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,c,cpp,oracle" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,git,github,vscode,spring" />
+</p>
+
+<p align="center">
+  <a href="https://portfoliov1-mk7wil7xj-pavanbhat66s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Beyond the Code
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>☕ Java Enthusiast</h3>
+      Exploring backend development and Java.
+    </td>
+    <td align="center" width="50%">
+      <h3>🧩 Problem Solver</h3>
+      Improving logical thinking through coding.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 Project Builder</h3>
+      Turning ideas into practical applications.
+    </td>
+    <td align="center" width="50%">
+      <h3>✈️ Aviation Enthusiast</h3>
+      Fascinated by aircraft and aviation technology.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pavanbhat66&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanbhat66&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavanbhat66&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanbhat66&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pavanbhat66&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Pavanbhat66&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" width="70%" />
 </p>
 
+---
 
-<h2 align="center">🐍 My GitHub Contributions</h2>
+## 🐍 My GitHub Contributions
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Pavanbhat66/Pavanbhat66/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavanbhat66/Pavanbhat66/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavanbhat66/Pavanbhat66/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Pavanbhat66/Pavanbhat66/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="mailto:pavanbhat461@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://github.com/Pavanbhat66" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pavanbhat66&label=Profile%20Views&color=blueviolet&style=flat-square" />
+</p>
+
+<h3 align="center">✨ Always learning. Always building. Always improving. 🚀</h3>
