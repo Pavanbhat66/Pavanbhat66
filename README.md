@@ -43,11 +43,6 @@ Passionate about software development, backend technologies and building practic
       Exploring backend development and Java.
     </td>
     <td align="center" width="50%">
-      <!--
-      <h3>🧩 Problem Solver</h3>
-      Improving logical thinking through coding.
-    </td>
-  </tr>-->
   <tr>
     <td align="center" width="50%">
       <h3>🚀 Project Builder</h3>
@@ -63,12 +58,6 @@ Passionate about software development, backend technologies and building practic
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavanbhat66&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanbhat66&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pavanbhat66&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" width="70%" />
 </p>
@@ -87,8 +76,8 @@ Passionate about software development, backend technologies and building practic
 
 ---
 
-## 🤝 Connect With Me
-
+<h2> Connect with me 
+  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
