@@ -43,10 +43,11 @@ Passionate about software development, backend technologies and building practic
       Exploring backend development and Java.
     </td>
     <td align="center" width="50%">
+      <!--
       <h3>🧩 Problem Solver</h3>
       Improving logical thinking through coding.
     </td>
-  </tr>
+  </tr>-->
   <tr>
     <td align="center" width="50%">
       <h3>🚀 Project Builder</h3>
