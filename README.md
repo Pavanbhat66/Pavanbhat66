@@ -17,7 +17,7 @@ Passionate about software development, backend technologies and building practic
 ### Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,c,cpp,oracle" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb,python,c,cpp,oracle" />
 </p>
 
 ### Frameworks & Tools
